@@ -1,0 +1,18 @@
+.main-button {
+    color: white;
+    text-decoration: none;
+    border: 0.99px solid rgba(255, 255, 255, 0.92);
+    width: 200px;
+    padding: 20px 0 ;
+    text-align: center;
+}
+
+.main-button.right {
+    position: fixed;
+    top: 590px;
+    right: 60px;
+}
+
+.main-button.a:hover {
+
+}

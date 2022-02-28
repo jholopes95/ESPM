@@ -1,0 +1,16 @@
+.main-menu {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 90px;
+    max-width: 1920px;
+    vertical-align: middle;
+    align-items: center;
+}
+
+.main-menu a {
+    text-decoration: none;
+    color: white;
+    padding-left: 30px;
+    font-size: 15px;
+}

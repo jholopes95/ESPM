@@ -1,0 +1,30 @@
+.main-home-banner {
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    max-width: 1920px;
+}
+
+h1, h2, h3 {
+    text-align: right;
+}
+
+h1 {
+    color: #fff;
+    font-size: 50px;
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 16px;
+    color: #0080FF;
+    margin-bottom: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.main-home-banner.right {
+    position: absolute;
+    top: 390px;
+    right: 60px;
+}

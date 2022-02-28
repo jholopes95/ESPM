@@ -1,0 +1,18 @@
+.main-header {
+    background-image: url(/Assets/img/img-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: red;
+    height: 705px;
+    padding-right: 60px;
+    padding-left: 60px;
+    justify-content: center;
+}
+
+.main-header img {
+    width: 100px;
+}
+
+#inverter {
+    transform: scaleX(-1);
+}
