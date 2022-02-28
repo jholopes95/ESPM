@@ -8,9 +8,9 @@
 }
 
 .main-button.right {
-    position: fixed;
-    top: 590px;
-    right: 60px;
+    position: absolute;
+    top: 190px;
+    right: 0px;
 }
 
 .main-button.a:hover {

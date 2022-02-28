@@ -5,22 +5,11 @@
     max-width: 1920px;
 }
 
-h1, h2, h3 {
+.main-home-banner h1 {
     text-align: right;
 }
-
-h1 {
-    color: #fff;
-    font-size: 50px;
-    font-weight: 300;
-}
-
-h3 {
-    font-size: 16px;
-    color: #0080FF;
-    margin-bottom: 10px;
-    font-weight: 600;
-    text-transform: uppercase;
+.main-home-banner h3 {
+    text-align: right;
 }
 
 .main-home-banner.right {

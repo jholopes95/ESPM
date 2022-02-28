@@ -1,0 +1,12 @@
+.text-area-unico {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 305px;
+    padding: 124px 15%;
+    justify-content: center;
+}
+
+
+.text-area-unico h1 {
+    color: black;
+}
