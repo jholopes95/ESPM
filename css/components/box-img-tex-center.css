@@ -1,0 +1,42 @@
+.box-img-tex-center {
+    display: flex;
+    height: 630px;
+}
+
+.box-img-tex-center h1 {
+    font-weight: 400;
+}
+
+p {
+    color: white;
+    font-size: 16px;
+}
+
+.box-img-tex-center a {
+    margin-top: 20px;
+}
+
+.box-img-tex-center h1 {
+    margin-bottom: 0.1em;
+}
+
+.box-img-tex-center img {
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.box-img-tex-center-1 {
+    background-color: blue;
+    width: 50%;
+}
+.box-img-tex-center-2 {
+    background: #01081e;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 101px 202px
+}
+
